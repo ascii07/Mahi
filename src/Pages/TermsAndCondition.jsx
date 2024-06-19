@@ -359,7 +359,7 @@ const TermsAndConditions = () => {
           By participating in these Contest/(s), each Participant acknowledges and agrees that they are participating in a game of skill.
         </p>
         <p style={styles.section}>
-          More about the legality of MAH11 Fantasy can be found at the website of the All India Gaming Federation (AIGF): www.aigf.in. AIGF is the apex industry body for Online Skill Gaming in India. AIGF’s self-regulation charter for Online Skill Gaming is based on the principles of Transparency, Integrity and Responsible Gaming.
+          More about the legality of MAH11 Fantasy can be found at the website of the All India Gaming Federation (AIGF): www.dailywin.world. AIGF is the apex industry body for Online Skill Gaming in India. AIGF’s self-regulation charter for Online Skill Gaming is based on the principles of Transparency, Integrity and Responsible Gaming.
         </p>
 
         <h2 style={styles.subHeader}>11. Eligibility</h2>
@@ -712,7 +712,7 @@ const TermsAndConditions = () => {
           Your transaction history, including but not limited to Amount Added, Winnings, Contest Joined, etc., will only be shown for the last 15 days within the app. However, if you require access to transaction history exceeding the 15-day timeframe, for a maximum of 90 days, please contact our customer support team.
         </p>
         <p style={styles.section}>
-          Customer Support Email ID: support@progo.in
+          Customer Support Email ID: support@dailywin.world
         </p>
         <p style={styles.section}>
           If you have any queries related to your transactions, please contact our support team within 7 days of the issue’s occurrence.
@@ -723,12 +723,12 @@ const TermsAndConditions = () => {
           Any amount added to the MAH11Fantasy account can be utilised to participate in contests, features and contests organised by MAH11Fantasy.
         </p>
         <p style={styles.section}>
-          A User may request a refund of any unused amount by sending a written request via email from their registered email address to support@progo.in. MAH11 Fantasy, at its sole discretion, retains the right to grant or deny the refund request, after deducting applicable cancellation charges and taxes.
+          A User may request a refund of any unused amount by sending a written request via email from their registered email address to support@dailywin.world. MAH11 Fantasy, at its sole discretion, retains the right to grant or deny the refund request, after deducting applicable cancellation charges and taxes.
         </p>
         <p style={styles.section}>
           Once confirmed, transactions made through MAH11Fantasy’s services and features are non-cancellable. MAH11Fantasy may, at its sole discretion, allow a User to cancel a transaction and receive a refund of the transaction amount, subject to the following conditions:
           <ul style={styles.list}>
-            <li>The user must send a written request to cancel the payment from their registered email address to support@progo.in.</li>
+            <li>The user must send a written request to cancel the payment from their registered email address to support@dailywin.world.</li>
             <li>If the payment was made for participation in a paid version of the contest, the cancellation request must be received at least 2 days before the start of the relevant round. MAH11Fantasy shall not be liable to refund any amount thereafter.</li>
             <li>The refund, if granted by MAH11Fantasy, will be made to the source of the MAH11Fantasy User account, after deducting applicable cancellation charges and taxes. The transaction process is subject to additional terms and conditions, which take precedence over present terms and conditions defined by MAH11Fantasy in the event of a conflict. The refund is only applicable to the amount used to join any contest.</li>
           </ul>
@@ -812,7 +812,7 @@ const TermsAndConditions = () => {
           In the case of an E-PAN card, a full scanned image of both the front and back of the E-PAN card must be uploaded for the PAN card verification process.
         </p>
         <p style={styles.section}>
-          Users must provide the documents required by MAH11Fantasy during the verification process; alternative documents will not be accepted. PAN cards of Users born before 1968 will not be accepted, and these Users must provide verification proof by emailing an image of themselves holding their PAN card near their face to support@progo.in.
+          Users must provide the documents required by MAH11Fantasy during the verification process; alternative documents will not be accepted. PAN cards of Users born before 1968 will not be accepted, and these Users must provide verification proof by emailing an image of themselves holding their PAN card near their face to support@dailywin.world.
         </p>
         <p style={styles.section}>
           The verification process at MAH11Fantasy typically takes 1-3 working days to complete. Users will be notified by MAH11Fantasy regarding the completion of the verification process.
@@ -918,7 +918,7 @@ const TermsAndConditions = () => {
         <h3 style={styles.subSubHeader}>Contact Information</h3>
         <p style={styles.section}>
           For any questions, concerns or inquiries related to these Terms and Conditions or the GST rate change, please contact MAH11Fantasy Customer Support team.
-          <br />Email ID: support@progo.in
+          <br />Email ID: support@dailywin.world
           <br />Phone Number: +91-9199185000
         </p>
         <p style={styles.section}>

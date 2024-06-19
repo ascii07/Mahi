@@ -17,7 +17,7 @@ const Navbar = () => {
       <div className={`navbar-right ${isOpen ? 'active' : ''}`}>
         <Link to="/" className="nav-link">Home</Link>
         <Link to="/Howtoplay" className="nav-link">Features</Link>
-        <Link to="/faqs" className="nav-link">Contact Us</Link>
+        <Link to="/Contact" className="nav-link">Contact Us</Link>
         <Link to="/user-says" className="nav-link">User</Link>
         <a href="#download" className="nav-button download-button">Download App</a>
       </div>

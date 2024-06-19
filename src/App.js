@@ -5,7 +5,7 @@ import Home from './Pages/Home';
 import Legalities from './Pages/Legalities';
 
 import HowToPlay from './Pages/Howtoplay';
-import FAQ from './Pages/Contact';
+
 import UserSays from './Pages/Usersays';
 import PrivacyPolicy from './Pages/privacy_policy';
 import Disclamier from './Pages/Disclamier';
@@ -16,6 +16,7 @@ import TermsAndCondition from './Pages/TermsAndCondition';
 
 
 import Footer from './Components/Footer/Footer';
+import Contact from './Pages/Contact';
 
 const App = () => {
   return (
@@ -29,7 +30,7 @@ const App = () => {
         
         
         <Route path="/Howtoplay" element={<HowToPlay />} />
-        <Route path="/faqs" element={<FAQ />} />
+        <Route path="/Contact" element={<Contact />} />
         <Route path="/user-says" element={<UserSays />} />
         <Route path="/privacy_policy" element={<PrivacyPolicy />} />
         <Route path="/Disclamier" element={<Disclamier />} />

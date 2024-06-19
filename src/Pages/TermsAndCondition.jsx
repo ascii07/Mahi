@@ -685,28 +685,28 @@ const TermsAndConditions = () => {
 
         <h2 style={styles.subHeader}>20. Miscellaneous</h2>
         <p style={styles.section}>
-          Under the relevant legislation, MAH11Fantasy is obliged to notify Users of various events. By accepting these Terms and Conditions, the Users give their consent that such notifications issued and posted by MAH11Fantasy on www.iplfanfantasy.shop and MAH11Fantasy application or conveyed via email, provided by the customer during registration, shall be considered adequate and authorised and shall take effect upon receipt by the customers. MAH11Fantasy shall not be held liable for any loss of information or failure to notify the User if the User fails to provide accurate and adequate information during registration.
+          Under the relevant legislation, MAHI11 Fantasy is obliged to notify Users of various events. By accepting these Terms and Conditions, the Users give their consent that such notifications issued and posted by MAHI11 Fantasy on www.dailywin.world and MAHI11 Fantasy application or conveyed via email, provided by the customer during registration, shall be considered adequate and authorised and shall take effect upon receipt by the customers. MAHI11 Fantasy shall not be held liable for any loss of information or failure to notify the User if the User fails to provide accurate and adequate information during registration.
         </p>
         <p style={styles.section}>
-          MAH11Fantasy shall not be held responsible for any delay or failure in notifying Users, organising/providing services, features and Contest(s) due to circumstances outside the control of MAH11Fantasy, including but not limited to acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, network infrastructure failures, strikes, shortages of transportation facilities, fuel, energy, labour or materials or any cancellation of any match related to a Contest. In such events, MAH11Fantasy reserves the right to cancel any related Contest(s) and to process a relevant refund for all Participants.
+          MAHI11 Fantasy shall not be held responsible for any delay or failure in notifying Users, organising/providing services, features and Contest(s) due to circumstances outside the control of MAHI11 Fantasy, including but not limited to acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, network infrastructure failures, strikes, shortages of transportation facilities, fuel, energy, labour or materials or any cancellation of any match related to a Contest. In such events, MAHI11 Fantasy reserves the right to cancel any related Contest(s) and to process a relevant refund for all Participants.
         </p>
         <p style={styles.section}>
-          MAH11Fantasy’s failure to exercise or enforce any right or provision of these Terms and Conditions shall not be deemed a waiver of such right or provision.
+          MAHI11 Fantasy’s failure to exercise or enforce any right or provision of these Terms and Conditions shall not be deemed a waiver of such right or provision.
         </p>
         <p style={styles.section}>
-          By accepting these Terms and Conditions, Users give their consent that any claim or cause of action arising from or related to the use of www.iplfanfantasy.shop and MAH11Fantasy application or these Terms and Conditions must be filed within thirty (30) days of such claim or cause of action arises, or it will be barred forever.
+          By accepting these Terms and Conditions, Users give their consent that any claim or cause of action arising from or related to the use of www.dailywin.world and MAHI11 Fantasy application or these Terms and Conditions must be filed within thirty (30) days of such claim or cause of action arises, or it will be barred forever.
         </p>
         <p style={styles.section}>
-          These Terms and Conditions, including all incorporated terms, conditions and policies, constitute the entire agreement between the user/(s) and MAH11Fantasy Fantasy Sports Private Limited, and govern the use of www.iplfanfantasy.shop, superseding any prior agreements between the User(s) and MAH11Fantasy Gaming Private Limited.
+          These Terms and Conditions, including all incorporated terms, conditions and policies, constitute the entire agreement between the user/(s) and MAHI11 Fantasy Fantasy Sports Private Limited, and govern the use of www.dailywin.world, superseding any prior agreements between the User(s) and MAHI11 Fantasy Gaming Private Limited.
         </p>
         <p style={styles.section}>
-          If any part of these Terms and Conditions defined by MAH11Fantasy is deemed indefinite, invalid or unenforceable, the remaining provisions shall remain in full force.
+          If any part of these Terms and Conditions defined by MAHI11 Fantasy is deemed indefinite, invalid or unenforceable, the remaining provisions shall remain in full force.
         </p>
         <p style={styles.section}>
-          MAH11Fantasy reserves the right to moderate, restrict or ban the use of MAH11Fantasy application and www.iplfanfantasy.shop for any particular user or generally, under MAH11Fantasy’s policy from time to time, at its sole and absolute discretion and without prior notice.
+          MAHI11 Fantasy reserves the right to moderate, restrict or ban the use of MAHI11 Fantasy application and www.dailywin.world for any particular user or generally, under MAHI11 Fantasy’s policy from time to time, at its sole and absolute discretion and without prior notice.
         </p>
         <p style={styles.section}>
-          MAH11Fantasy reserves the right to permanently close or temporarily suspend any features, including Contest(s).
+          MAHI11 Fantasy reserves the right to permanently close or temporarily suspend any features, including Contest(s).
         </p>
         <p style={styles.section}>
           Your transaction history, including but not limited to Amount Added, Winnings, Contest Joined, etc., will only be shown for the last 15 days within the app. However, if you require access to transaction history exceeding the 15-day timeframe, for a maximum of 90 days, please contact our customer support team.
@@ -720,17 +720,17 @@ const TermsAndConditions = () => {
 
         <h2 style={styles.subHeader}>21. Refund</h2>
         <p style={styles.section}>
-          Any amount added to the MAH11Fantasy account can be utilised to participate in contests, features and contests organised by MAH11Fantasy.
+          Any amount added to the MAHI11 Fantasy account can be utilised to participate in contests, features and contests organised by MAHI11 Fantasy.
         </p>
         <p style={styles.section}>
           A User may request a refund of any unused amount by sending a written request via email from their registered email address to support@dailywin.world. MAH11 Fantasy, at its sole discretion, retains the right to grant or deny the refund request, after deducting applicable cancellation charges and taxes.
         </p>
         <p style={styles.section}>
-          Once confirmed, transactions made through MAH11Fantasy’s services and features are non-cancellable. MAH11Fantasy may, at its sole discretion, allow a User to cancel a transaction and receive a refund of the transaction amount, subject to the following conditions:
+          Once confirmed, transactions made through MAHI11 Fantasy’s services and features are non-cancellable. MAHI11 Fantasy may, at its sole discretion, allow a User to cancel a transaction and receive a refund of the transaction amount, subject to the following conditions:
           <ul style={styles.list}>
             <li>The user must send a written request to cancel the payment from their registered email address to support@dailywin.world.</li>
-            <li>If the payment was made for participation in a paid version of the contest, the cancellation request must be received at least 2 days before the start of the relevant round. MAH11Fantasy shall not be liable to refund any amount thereafter.</li>
-            <li>The refund, if granted by MAH11Fantasy, will be made to the source of the MAH11Fantasy User account, after deducting applicable cancellation charges and taxes. The transaction process is subject to additional terms and conditions, which take precedence over present terms and conditions defined by MAH11Fantasy in the event of a conflict. The refund is only applicable to the amount used to join any contest.</li>
+            <li>If the payment was made for participation in a paid version of the contest, the cancellation request must be received at least 2 days before the start of the relevant round. MAHI11 Fantasy shall not be liable to refund any amount thereafter.</li>
+            <li>The refund, if granted by MAHI11 Fantasy, will be made to the source of the MAHI11 Fantasy User account, after deducting applicable cancellation charges and taxes. The transaction process is subject to additional terms and conditions, which take precedence over present terms and conditions defined by MAHI11 Fantasy in the event of a conflict. The refund is only applicable to the amount used to join any contest.</li>
           </ul>
         </p>
         <p style={styles.section}>
@@ -742,7 +742,7 @@ const TermsAndConditions = () => {
           MAH11 Fantasy, from time to time, offers various promotions that can be availed by the Users. Users are provided with a “Cash Bonus” in the Credit Bonus section of the user’s wallet as a reward for participating in such promotions. The Cash Bonus can then be used for playing on the platform.
         </p>
         <p style={styles.section}>
-          The Users must comply with the Promotion Terms, defined by MAH11 Fantasy, and these Standard Terms while participating in any promotions. Further, the Users accept and agree to comply with the Terms and Conditions, and privacy policies of MAH11Fantasy upon participating in any promotion.
+          The Users must comply with the Promotion Terms, defined by MAH11 Fantasy, and these Standard Terms while participating in any promotions. Further, the Users accept and agree to comply with the Terms and Conditions, and privacy policies of MAHI11 Fantasy upon participating in any promotion.
         </p>
         <p style={styles.section}>
           It is to be noted that the promotions are only open to users in India, and participation by proxy is not permitted. Participation in the promotions is voluntary, and participation in one promotion does not guarantee eligibility to participate in another.
@@ -751,19 +751,19 @@ const TermsAndConditions = () => {
           An individual must only participate in promotions through one account registered with MAH11 Fantasy. The creation of new accounts or the use of multiple accounts is not permitted. Verification of mobile numbers and other account details may be required to participate in a promotion, under the Promotion Terms.
         </p>
         <p style={styles.section}>
-          Individuals who have their numbers registered on the National Do Not Call Registry (“NDNC Registry”) must de-register their numbers from the NDNC Registry before participating in a promotion. MAH11Fantasy shall not be held responsible for any loss or damage that may occur due to notification failure to the User. Participants whose numbers are registered on the NDNC Registry shall not be authorised to make any claims against MAH11Fantasy in the event of not receiving any calls or SMS concerning their participation.
+          Individuals who have their numbers registered on the National Do Not Call Registry (“NDNC Registry”) must de-register their numbers from the NDNC Registry before participating in a promotion. MAHI11 Fantasy shall not be held responsible for any loss or damage that may occur due to notification failure to the User. Participants whose numbers are registered on the NDNC Registry shall not be authorised to make any claims against MAHI11 Fantasy in the event of not receiving any calls or SMS concerning their participation.
         </p>
         <p style={styles.section}>
-          The verification process may require the submission of personal information. Participants who provide their consent to receive communication from MAH11Fantasy also provide their consent for the collection of their personal information. This information will be subject to MAH11Fantasy’s Privacy Policy.
+          The verification process may require the submission of personal information. Participants who provide their consent to receive communication from MAHI11 Fantasy also provide their consent for the collection of their personal information. This information will be subject to MAHI11 Fantasy’s Privacy Policy.
         </p>
         <p style={styles.section}>
-          MAH11 Fantasy reserves the right to disqualify any User at its sole discretion from a promotion if the User is found to be engaged in any inadequate, illegal, or unlawful conduct. The deposit of Cash Bonus (if applicable) or the grant of the free-entry (if any) shall be at the sole discretion of MAH11Fantasy and subject to the User’s compliance with these Standard Terms and the applicable Promotion Terms. MAH11Fantasy may change or substitute the Cash Bonus for promotion (if applicable) or free entry (if any) at any time without prior notice to the Users may not substitute the Cash Bonus received for promotion (if applicable) or free entry (if any) for other items or exchange it for cash.
+          MAH11 Fantasy reserves the right to disqualify any User at its sole discretion from a promotion if the User is found to be engaged in any inadequate, illegal, or unlawful conduct. The deposit of Cash Bonus (if applicable) or the grant of the free-entry (if any) shall be at the sole discretion of MAHI11 Fantasy and subject to the User’s compliance with these Standard Terms and the applicable Promotion Terms. MAHI11 Fantasy may change or substitute the Cash Bonus for promotion (if applicable) or free entry (if any) at any time without prior notice to the Users may not substitute the Cash Bonus received for promotion (if applicable) or free entry (if any) for other items or exchange it for cash.
         </p>
         <p style={styles.section}>
-          If MAH11Fantasy identifies or believes that a User participating in the promotion has violated the Standard Terms, Promotion Terms or the terms and conditions of the MAH11Fantasy fantasy game(s), MAH11Fantasy reserves the right to withhold or forfeit the benefits of the promotion, including the free-entry or Cash Bonus earned by the participant. Mere participation in a promotion does not guarantee the receipt of any free entry or Cash Bonus indicated as winnings under such promotion.
+          If MAHI11 Fantasy identifies or believes that a User participating in the promotion has violated the Standard Terms, Promotion Terms or the terms and conditions of the MAHI11 Fantasy fantasy game(s), MAHI11 Fantasy reserves the right to withhold or forfeit the benefits of the promotion, including the free-entry or Cash Bonus earned by the participant. Mere participation in a promotion does not guarantee the receipt of any free entry or Cash Bonus indicated as winnings under such promotion.
         </p>
         <p style={styles.section}>
-          MAH11 Fantasy’s decision regarding the winners and winnings in the context of the promotions shall be final and binding, and no correspondence, objections, complaints, etc. shall be entertained. Promotions may not be combined with any other contest, offer, or promotion that is running simultaneously and organised or conducted by MAH11Fantasy.
+          MAH11 Fantasy’s decision regarding the winners and winnings in the context of the promotions shall be final and binding, and no correspondence, objections, complaints, etc. shall be entertained. Promotions may not be combined with any other contest, offer, or promotion that is running simultaneously and organised or conducted by MAHI11 Fantasy.
         </p>
         <p style={styles.section}>
           MAH11 Fantasy holds the right to change, modify, or withdraw any promotions and/or change these Standard Terms and/or the Promotion Terms at any time without prior notice to the Users.
@@ -775,35 +775,35 @@ const TermsAndConditions = () => {
         <h2 style={styles.subHeader}>23. MAH11 Fantasy Promotions</h2>
         <h3 style={styles.subSubHeader}>Golden Ticket</h3>
         <p style={styles.section}>
-          MAH11Fantasy provides its users with a promotional offering called the “Golden Ticket”. This allows Users to purchase a pass and save a percentage of the entry fee in a specific contest. By purchasing the Golden Ticket, Users agree to abide by the conditions specified by MAH11Fantasy, including but not limited to:
+          MAHI11 Fantasy provides its users with a promotional offering called the “Golden Ticket”. This allows Users to purchase a pass and save a percentage of the entry fee in a specific contest. By purchasing the Golden Ticket, Users agree to abide by the conditions specified by MAHI11 Fantasy, including but not limited to:
           <ul style={styles.list}>
             <li>The Golden Ticket shall only be used for the contest and tournament it is offered for.</li>
             <li>The Golden Ticket comes with a predefined validity period, and if not used, it shall expire once the validity period is over.</li>
             <li>In the event of a contest being cancelled due to unavoidable circumstances, a coupon of similar value shall be provided to the User.</li>
-            <li>If the tournament for which the Golden Ticket is offered is abandoned, an amount equivalent to the remaining passes will be credited to the “Unutilized” section of the User’s MAH11Fantasy wallet.</li>
+            <li>If the tournament for which the Golden Ticket is offered is abandoned, an amount equivalent to the remaining passes will be credited to the “Unutilized” section of the User’s MAHI11 Fantasy wallet.</li>
             <li>Any additional terms and conditions defined during the launch of a particular Golden Ticket bundle shall be applicable.</li>
-            <li>The price of any Golden Ticket pass-bundle offered on MAH11Fantasy can be changed at any time without prior notice to the Users and is at the sole discretion of MAH11Fantasy.</li>
+            <li>The price of any Golden Ticket pass-bundle offered on MAHI11 Fantasy can be changed at any time without prior notice to the Users and is at the sole discretion of MAHI11 Fantasy.</li>
           </ul>
         </p>
 
         <h3 style={styles.subSubHeader}>Refer & Earn</h3>
         <p style={styles.section}>
-          MAH11Fantasy offers its Users the opportunity to earn a Cash Bonus through its “Refer & Earn” promotion. Users can invite their friends to join the platform and be eligible for earning a Cash Bonus, which shall be credited to the “Credit Bonus” section of the User’s wallet. Both the Referrer and Referent are eligible for earning the Cash Bonus under this promotion. The referent shall earn up to ₹125 Cash Bonus, while the referrer can earn up to ₹1000 Cash Bonus as mentioned in the Credit Bonus section of their wallets.
+          MAHI11 Fantasy offers its Users the opportunity to earn a Cash Bonus through its “Refer & Earn” promotion. Users can invite their friends to join the platform and be eligible for earning a Cash Bonus, which shall be credited to the “Credit Bonus” section of the User’s wallet. Both the Referrer and Referent are eligible for earning the Cash Bonus under this promotion. The referent shall earn up to ₹125 Cash Bonus, while the referrer can earn up to ₹1000 Cash Bonus as mentioned in the Credit Bonus section of their wallets.
         </p>
 
         <h3 style={styles.subSubHeader}>Sign Up</h3>
         <p style={styles.section}>
-          Any User registering for the first time on the MAH11Fantasy platform shall be eligible for a Cash Bonus worth up to ₹125, visible in the Credit Bonus section of their wallet.
+          Any User registering for the first time on the MAHI11 Fantasy platform shall be eligible for a Cash Bonus worth up to ₹125, visible in the Credit Bonus section of their wallet.
         </p>
 
         <h3 style={styles.subSubHeader}>Discounts & Free Entry</h3>
         <p style={styles.section}>
-          MAH11Fantasy offers a variety of discounts and free entries to contests from time to time to several Users, based on defined criteria at its sole and absolute discretion. The promotion shall only be offered to those who meet the eligibility criteria.
+          MAHI11 Fantasy offers a variety of discounts and free entries to contests from time to time to several Users, based on defined criteria at its sole and absolute discretion. The promotion shall only be offered to those who meet the eligibility criteria.
         </p>
 
         <h2 style={styles.subHeader}>24. Verification</h2>
         <p style={styles.section}>
-          To create, register, and operate an account with MAH11Fantasy, Users must verify their personal and contact information, including (i) mobile number, (ii) email address, (iii) PAN card details, (iv) address proof, and (v) bank account details such as name, bank name, date of birth, branch, IFSC code, state, driving licence, and Aadhaar card. The images provided by users using MAH11Fantasy’s services and features must be scanned copies of original documents, and the image size of these scanned copies must not exceed 2 MB. A scanned image of a photocopy of the User’s PAN card will not be acceptable.
+          To create, register, and operate an account with MAHI11 Fantasy, Users must verify their personal and contact information, including (i) mobile number, (ii) email address, (iii) PAN card details, (iv) address proof, and (v) bank account details such as name, bank name, date of birth, branch, IFSC code, state, driving licence, and Aadhaar card. The images provided by users using MAHI11 Fantasy’s services and features must be scanned copies of original documents, and the image size of these scanned copies must not exceed 2 MB. A scanned image of a photocopy of the User’s PAN card will not be acceptable.
         </p>
         <p style={styles.section}>
           Participants who are above the age of 18 years and have completed the registration process by providing valid and complete information on the registration form will receive a confirmation email containing their login details.
@@ -812,16 +812,16 @@ const TermsAndConditions = () => {
           In the case of an E-PAN card, a full scanned image of both the front and back of the E-PAN card must be uploaded for the PAN card verification process.
         </p>
         <p style={styles.section}>
-          Users must provide the documents required by MAH11Fantasy during the verification process; alternative documents will not be accepted. PAN cards of Users born before 1968 will not be accepted, and these Users must provide verification proof by emailing an image of themselves holding their PAN card near their face to support@dailywin.world.
+          Users must provide the documents required by MAHI11 Fantasy during the verification process; alternative documents will not be accepted. PAN cards of Users born before 1968 will not be accepted, and these Users must provide verification proof by emailing an image of themselves holding their PAN card near their face to support@dailywin.world.
         </p>
         <p style={styles.section}>
-          The verification process at MAH11Fantasy typically takes 1-3 working days to complete. Users will be notified by MAH11Fantasy regarding the completion of the verification process.
+          The verification process at MAHI11 Fantasy typically takes 1-3 working days to complete. Users will be notified by MAHI11 Fantasy regarding the completion of the verification process.
         </p>
         <p style={styles.section}>
-          Any changes to the information provided by Users during registration or afterwards must be made in writing and accompanied by a valid document of change. Users are obligated to inform MAH11Fantasy of these changes to update their records. If the User fails to provide such updates, they will be solely responsible for any failure to receive communication from MAH11Fantasy.
+          Any changes to the information provided by Users during registration or afterwards must be made in writing and accompanied by a valid document of change. Users are obligated to inform MAHI11 Fantasy of these changes to update their records. If the User fails to provide such updates, they will be solely responsible for any failure to receive communication from MAHI11 Fantasy.
         </p>
         <p style={styles.section}>
-          By accepting these Terms and Conditions, Users provide their consent to provide accurate and adequate information at the time of verification. MAH11Fantasy reserves the right to reject a User’s verification application if the PAN card details and account details do not match.
+          By accepting these Terms and Conditions, Users provide their consent to provide accurate and adequate information at the time of verification. MAHI11 Fantasy reserves the right to reject a User’s verification application if the PAN card details and account details do not match.
         </p>
 
         <h2 style={styles.subHeader}>25. General Terms & Conditions for PAN Card and Bank Account</h2>
@@ -861,19 +861,19 @@ const TermsAndConditions = () => {
           The User’s provided PAN and bank account details will be subject to examination.
         </p>
         <p style={styles.section}>
-          If the banking and PAN details do not match, the User’s account will be blocked from accessing the MAH11Fantasy application.
+          If the banking and PAN details do not match, the User’s account will be blocked from accessing the MAHI11 Fantasy application.
         </p>
         <p style={styles.section}>
-          MAH11Fantasy will notify the User via email in this event.
+          MAHI11 Fantasy will notify the User via email in this event.
         </p>
         <p style={styles.section}>
-          The User will only be able to access MAH11Fantasy services once they have provided valid PAN and banking details.
+          The User will only be able to access MAHI11 Fantasy services once they have provided valid PAN and banking details.
         </p>
 
         <h2 style={styles.subHeader}>26. Taxation</h2>
         <h3 style={styles.subSubHeader}>26.1 GST</h3>
         <p style={styles.section}>
-          These Terms and Conditions (“Terms”) outline the amendment to the Goods and Services Tax (GST) rate applicable to the deposits on MAH11Fantasy Fantasy App, starting from October 1st, 2023. By using MAH11Fantasy application, you acknowledge and agree to adhere to these terms regarding the GST rate change.
+          These Terms and Conditions (“Terms”) outline the amendment to the Goods and Services Tax (GST) rate applicable to the deposits on MAHI11 Fantasy Fantasy App, starting from October 1st, 2023. By using MAHI11 Fantasy application, you acknowledge and agree to adhere to these terms regarding the GST rate change.
         </p>
         <p style={styles.section}>
           During the 50th meeting of the GST Council of India in 2023, a decision was made to impose a 28% tax on online gaming applications. Commencing from the 1st of October 2023, the implementation of a 28% GST on deposits will take effect.
@@ -884,10 +884,10 @@ const TermsAndConditions = () => {
 
         <h3 style={styles.subSubHeader}>User Impact & Responsibility</h3>
         <p style={styles.section}>
-          On initiating a deposit on MAH11Fantasy application, the GST of 28% will be borne by the user. The deposited amount by the user will be inclusive of GST. This means that users do not have to pay an additional 28% GST on top of the amount they deposit.
+          On initiating a deposit on MAHI11 Fantasy application, the GST of 28% will be borne by the user. The deposited amount by the user will be inclusive of GST. This means that users do not have to pay an additional 28% GST on top of the amount they deposit.
         </p>
         <p style={styles.section}>
-          MAH11Fantasy will issue invoices that reflect the updated GST rate of 28% at the time of deposit along with the detailed calculations of all deductions. This invoice will be sent to the user by email as they make the deposit on the app. User can also check and download the invoice as they view statement under the wallet section of MAH11Fantasy app.
+          MAHI11 Fantasy will issue invoices that reflect the updated GST rate of 28% at the time of deposit along with the detailed calculations of all deductions. This invoice will be sent to the user by email as they make the deposit on the app. User can also check and download the invoice as they view statement under the wallet section of MAHI11 Fantasy app.
         </p>
 
        
@@ -909,7 +909,7 @@ const TermsAndConditions = () => {
 
         <h3 style={styles.subSubHeader}>Modification of Terms</h3>
         <p style={styles.section}>
-          MAH11Fantasy reserves the right to modify these Terms and Conditions, including GST rate amendments, as required by changes in tax laws or for any other legitimate reason. Users will be notified of such modifications through appropriate communication channels.
+          MAHI11 Fantasy reserves the right to modify these Terms and Conditions, including GST rate amendments, as required by changes in tax laws or for any other legitimate reason. Users will be notified of such modifications through appropriate communication channels.
         </p>
         <p style={styles.section}>
           In the event that the proposed GST provisions are changed or amended by the government, the current mechanism may endure a change, which the company and the users must adhere to. Any provisions that reflect the previous mechanism or regime will be disregarded.
@@ -917,17 +917,17 @@ const TermsAndConditions = () => {
 
         <h3 style={styles.subSubHeader}>Contact Information</h3>
         <p style={styles.section}>
-          For any questions, concerns or inquiries related to these Terms and Conditions or the GST rate change, please contact MAH11Fantasy Customer Support team.
+          For any questions, concerns or inquiries related to these Terms and Conditions or the GST rate change, please contact MAHI11 Fantasy Customer Support team.
           <br />Email ID: support@dailywin.world
           <br />Phone Number: +91-9199185000
         </p>
         <p style={styles.section}>
-          By using MAH11Fantasy application from October 1st, 2023, you acknowledge and accept the amended GST rate of 28% as outlined in these Terms and Conditions.
+          By using MAHI11 Fantasy application from October 1st, 2023, you acknowledge and accept the amended GST rate of 28% as outlined in these Terms and Conditions.
         </p>
 
         <h3 style={styles.subSubHeader}>26.2 TDS</h3>
         <p style={styles.section}>
-          According to the new section 194BA of the Income-tax Act, 1961, starting from 1st April 2023, a 30% withholding tax (‘TDS’) will be applied to the positive “Net Winnings” earned by Users from online games on MAH11Fantasy.
+          According to the new section 194BA of the Income-tax Act, 1961, starting from 1st April 2023, a 30% withholding tax (‘TDS’) will be applied to the positive “Net Winnings” earned by Users from online games on MAHI11 Fantasy.
         </p>
         <p style={styles.section}>
           TDS will be triggered:
@@ -950,7 +950,7 @@ const TermsAndConditions = () => {
         </p>
         <p style={styles.section}>
           <strong>Example 1) TDS Deduction on 1st Withdrawal:</strong>
-          <br />A User has an opening wallet balance of ₹2,000 at the beginning of the financial/fiscal year and hasn’t deposited any amount in the MAH11Fantasy wallet. The user uses the existing balance to participate in fantasy contests and has accumulated winnings of ₹10,000. Now the user requests a withdrawal of ₹4,000, then the User’s account has the following details:
+          <br />A User has an opening wallet balance of ₹2,000 at the beginning of the financial/fiscal year and hasn’t deposited any amount in the MAHI11 Fantasy wallet. The user uses the existing balance to participate in fantasy contests and has accumulated winnings of ₹10,000. Now the user requests a withdrawal of ₹4,000, then the User’s account has the following details:
           <br />Requested withdrawal from the user, A = ₹4,000
           <br />The amount deposited in the user account during the year, B = 0
           <br />Opening balance in the user account, C = ₹2,000
@@ -968,7 +968,7 @@ const TermsAndConditions = () => {
           <br />Amount credited to Bank Account = ₹3,400
         </p>
         <p style={styles.section}>
-          In simpler terms, the User has requested to withdraw ₹4,000 from their winnings. After considering the account balance and deposits, the Net Winnings amount to ₹2,000. MAH11Fantasy will withhold 30% of the Net Winnings as TDS, which is ₹600 in this case. The final amount credited to the User’s registered bank account would be ₹3,400.
+          In simpler terms, the User has requested to withdraw ₹4,000 from their winnings. After considering the account balance and deposits, the Net Winnings amount to ₹2,000. MAHI11 Fantasy will withhold 30% of the Net Winnings as TDS, which is ₹600 in this case. The final amount credited to the User’s registered bank account would be ₹3,400.
         </p>
         <p style={styles.section}>
           <strong>Example 2) TDS Deduction on Following Withdrawals:</strong>
@@ -1027,10 +1027,10 @@ const TermsAndConditions = () => {
           As Cash Bonus(es) are a promotional incentive provided to the Users, they are exempted from TDS deduction.
         </p>
         <p style={styles.section}>
-          The conversion feature doesn’t exempt winnings from taxes but offers a potential deferral of TDS liability as long as the converted amount remains deposited within the MAH11Fantasy app for contest participation, or financial year ending (whichever happens earlier).
+          The conversion feature doesn’t exempt winnings from taxes but offers a potential deferral of TDS liability as long as the converted amount remains deposited within the MAHI11 Fantasy app for contest participation, or financial year ending (whichever happens earlier).
         </p>
         <p style={styles.section}>
-          The amount credited to the User’s registered bank account or MAH11Fantasy Wallet (in case of a change in the financial year) will be the remaining amount after the TDS deduction, as per the new tax policy.
+          The amount credited to the User’s registered bank account or MAHI11 Fantasy Wallet (in case of a change in the financial year) will be the remaining amount after the TDS deduction, as per the new tax policy.
         </p>
         <p style={styles.section}>
           In case of such tax deductions, the winners will be provided TDS certificates.
@@ -1039,44 +1039,44 @@ const TermsAndConditions = () => {
           In compliance with Section 269SU of the Income Tax Act, we insist on making payments by NEFT/RTGS/IMPS or any other E Modes.
         </p>
         <p style={styles.section}>
-          The individuals declared as winners by MAH11Fantasy agree to pay any applicable taxes, including (but not limited to) income tax, gift tax, etc., in compliance with the new tax policy. Both winnings and MAH11Fantasy Credits are subject to various taxes.
+          The individuals declared as winners by MAHI11 Fantasy agree to pay any applicable taxes, including (but not limited to) income tax, gift tax, etc., in compliance with the new tax policy. Both winnings and MAHI11 Fantasy Credits are subject to various taxes.
         </p>
 
         <h2 style={styles.subHeader}>27. Withdrawals</h2>
         <p style={styles.section}>
-          In terms of withdrawals, if an MAH11Fantasy User is found to violate the Fair Play Terms or the General Terms and Conditions of the website, MAH11Fantasy reserves the right to take strict measures against the User, including, but not limited to:
+          In terms of withdrawals, if an MAHI11 Fantasy User is found to violate the Fair Play Terms or the General Terms and Conditions of the website, MAHI11 Fantasy reserves the right to take strict measures against the User, including, but not limited to:
           <ul style={styles.list}>
             <li>If a User is found to have more than nine referred friends whose mobile number, email address, or PAN card details are unverified, their withdrawal requests may be put on hold or their user account may be blocked permanently.</li>
-            <li>If a User is asked to get the details of their referred friends verified by MAH11Fantasy executives, and they have more than nine friends with unverified details, the withdrawal request put on hold will not be refunded to the User’s MAH11Fantasy account and will continue to be on hold.</li>
-            <li>If a User is found to have multiple accounts registered under the same name, their withdrawal request may be put on hold or their User account may be blocked, preventing them from further play on MAH11Fantasy.</li>
-            <li>If a User is found to violate MAH11Fantasy’s Fair Play Terms, as outlined on the “Fair Play” page, their ability to play on MAH11Fantasy may be blocked or their withdrawal requests may be put on hold.</li>
+            <li>If a User is asked to get the details of their referred friends verified by MAHI11 Fantasy executives, and they have more than nine friends with unverified details, the withdrawal request put on hold will not be refunded to the User’s MAHI11 Fantasy account and will continue to be on hold.</li>
+            <li>If a User is found to have multiple accounts registered under the same name, their withdrawal request may be put on hold or their User account may be blocked, preventing them from further play on MAHI11 Fantasy.</li>
+            <li>If a User is found to violate MAHI11 Fantasy’s Fair Play Terms, as outlined on the “Fair Play” page, their ability to play on MAHI11 Fantasy may be blocked or their withdrawal requests may be put on hold.</li>
             <li>The withdrawals of Users who create a fake referral chain by registering multiple accounts under the same name will be blocked and their withdrawal requests will be put on hold.</li>
             <li>If a User is found to be a resident of Assam, Odisha, Telangana, Nagaland, Sikkim or Andhra Pradesh and concealed this fact during registration, their User account will be blocked and their withdrawal requests will be put on hold.</li>
             <li>MAH11 Fantasy reserves the right to put a User’s withdrawal request on hold or block their account at any time during its audits, even if the withdrawal request has previously been accepted.</li>
-            <li>If a withdrawal request is put on hold and MAH11Fantasy decides, at its sole discretion, to process the request after the User agrees to abide by the Fair Play Terms, the withdrawal will take five to seven working days to process.</li>
-            <li>If MAH11Fantasy suspects that a user violates its Fair Play or verification terms, as stated in the Terms and Conditions, it reserves the right to verify the User at any time. MAH11Fantasy may conduct a video call with the User to validate and verify their identity. If the video call is negative, the User account will be blocked and their withdrawal will be put on hold. MAH11Fantasy reserves the right to verify and validate the identity of a User at any time, as it sees fit.</li>
-            <li>If a user creates multiple accounts on MAH11Fantasy using a single device, they must ensure that all mandatory verification formalities, including mobile, email, PAN card, and bank account details verification, have been completed for all accounts. Completing these processes will ensure smooth withdrawals for such Users on MAH11Fantasy.</li>
+            <li>If a withdrawal request is put on hold and MAHI11 Fantasy decides, at its sole discretion, to process the request after the User agrees to abide by the Fair Play Terms, the withdrawal will take five to seven working days to process.</li>
+            <li>If MAHI11 Fantasy suspects that a user violates its Fair Play or verification terms, as stated in the Terms and Conditions, it reserves the right to verify the User at any time. MAHI11 Fantasy may conduct a video call with the User to validate and verify their identity. If the video call is negative, the User account will be blocked and their withdrawal will be put on hold. MAHI11 Fantasy reserves the right to verify and validate the identity of a User at any time, as it sees fit.</li>
+            <li>If a user creates multiple accounts on MAHI11 Fantasy using a single device, they must ensure that all mandatory verification formalities, including mobile, email, PAN card, and bank account details verification, have been completed for all accounts. Completing these processes will ensure smooth withdrawals for such Users on MAHI11 Fantasy.</li>
           </ul>
         </p>
 
         <h3 style={styles.subSubHeader}>27.1 Normal Withdrawals</h3>
         <p style={styles.section}>
-          Terms and Conditions for Normal Withdrawals on MAH11Fantasy:
+          Terms and Conditions for Normal Withdrawals on MAHI11 Fantasy:
           <ul style={styles.list}>
             <li>A minimum amount of ₹200 can be withdrawn per day, with a maximum amount of ₹1,00,000.</li>
             <li>Users can withdraw a minimum amount of ₹200 and a maximum amount of ₹1,00,000 per transaction.</li>
             <li>Withdrawal requests by Users will be processed within 24 hours on weekdays and up to 72 hours on weekends, excluding the date the request is made.</li>
             <li>The working days referred to in this context are those of the bank.</li>
-            <li>If a withdrawal request is not processed within two to three days after the date the request is made, the User should check their registered email address for any communications from MAH11Fantasy.</li>
-            <li>The User requesting a withdrawal must not have a violation history on MAH11Fantasy.</li>
-            <li>In the event of a Fair Play violation, MAH11Fantasy may hold the next and future Instant Withdrawal requests until an appropriate explanation is received. Such cases will be dealt with under the “Fair Play Violation” policy.</li>
-            <li>In the event of a dispute, disagreement or concern between MAH11Fantasy and its payment partner, MAH11Fantasy reserves the right to hold the withdrawal requests and amounts until resolution.</li>
+            <li>If a withdrawal request is not processed within two to three days after the date the request is made, the User should check their registered email address for any communications from MAHI11 Fantasy.</li>
+            <li>The User requesting a withdrawal must not have a violation history on MAHI11 Fantasy.</li>
+            <li>In the event of a Fair Play violation, MAHI11 Fantasy may hold the next and future Instant Withdrawal requests until an appropriate explanation is received. Such cases will be dealt with under the “Fair Play Violation” policy.</li>
+            <li>In the event of a dispute, disagreement or concern between MAHI11 Fantasy and its payment partner, MAHI11 Fantasy reserves the right to hold the withdrawal requests and amounts until resolution.</li>
           </ul>
         </p>
 
         <h3 style={styles.subSubHeader}>27.2 Instant Withdrawals</h3>
         <p style={styles.section}>
-          Terms and Conditions for Instant Withdrawal on MAH11Fantasy:
+          Terms and Conditions for Instant Withdrawal on MAHI11 Fantasy:
           <ul style={styles.list}>
             <li>A minimum amount of ₹200 can be withdrawn per day, with a maximum amount of ₹50,000.</li>
             <li>All Users are eligible for Instant Withdrawals, with a daily minimum withdrawal limit of ₹200 and a maximum ranging from ₹1,000 to ₹50,000, depending on the user’s level described in the following table:</li>
@@ -1118,33 +1118,33 @@ const TermsAndConditions = () => {
         </table>
         <p style={styles.section}>
           <ul style={styles.list}>
-            <li>The User’s PAN card and bank account must be verified with MAH11Fantasy. Additionally, the name on the PAN card must match the profile name on MAH11Fantasy.</li>
+            <li>The User’s PAN card and bank account must be verified with MAHI11 Fantasy. Additionally, the name on the PAN card must match the profile name on MAHI11 Fantasy.</li>
             <li>To become eligible for the facility of Instant Withdrawal, a user has to add cash in their wallet.</li>
             <li>The Instant Withdrawal will be processed via the IMPS method of transfer and the withdrawal may take 2-3 hours for the amount to reflect in the User’s bank account.</li>
-            <li>MAH11Fantasy reserves the right to hold or deactivate the Instant Withdrawal service at any time, without prior notice to the user.</li>
-            <li>The user requesting the Instant Withdrawal must not have a violation history on MAH11Fantasy.</li>
-            <li>In the event of a Fair Play violation, MAH11Fantasy may hold the next and future Instant Withdrawal requests until an appropriate explanation is received. Such cases will be dealt with under the “Fair Play Violation” policy.</li>
-            <li>In the event of a dispute, disagreement or concern between MAH11Fantasy and its payment partner, MAH11Fantasy reserves the right to hold the withdrawal requests and amounts until resolution.</li>
+            <li>MAHI11 Fantasy reserves the right to hold or deactivate the Instant Withdrawal service at any time, without prior notice to the user.</li>
+            <li>The user requesting the Instant Withdrawal must not have a violation history on MAHI11 Fantasy.</li>
+            <li>In the event of a Fair Play violation, MAHI11 Fantasy may hold the next and future Instant Withdrawal requests until an appropriate explanation is received. Such cases will be dealt with under the “Fair Play Violation” policy.</li>
+            <li>In the event of a dispute, disagreement or concern between MAHI11 Fantasy and its payment partner, MAHI11 Fantasy reserves the right to hold the withdrawal requests and amounts until resolution.</li>
             <li>In the event of a failed Instant Withdrawal, it will be converted to a normal withdrawal and processed within 1-3 working days.</li>
-            <li>Users are allowed to make only one withdrawal in 24 hours. Please note that MAH11Fantasy retains the right to alter these terms and conditions at its discretion, with the ability to make changes at any time.</li>
+            <li>Users are allowed to make only one withdrawal in 24 hours. Please note that MAHI11 Fantasy retains the right to alter these terms and conditions at its discretion, with the ability to make changes at any time.</li>
           </ul>
         </p>
 
         <h2 style={styles.subHeader}>28. Payment Terms</h2>
         <p style={styles.section}>
-          In respect of any transactions entered into on the MAH11Fantasy platform, including making a payment to participate in the paid versions of Contest(s), Users agree to be bound by the following payment terms:
+          In respect of any transactions entered into on the MAHI11 Fantasy platform, including making a payment to participate in the paid versions of Contest(s), Users agree to be bound by the following payment terms:
           <ul style={styles.list}>
-            <li>The payment of the pre-designated amount that Users make to participate in the Contest(s) is inclusive of the pre-designated platform fee for access to the MAH11Fantasy Services charged by MAH11Fantasy and the predetermined participant’s contribution towards winnings.</li>
+            <li>The payment of the pre-designated amount that Users make to participate in the Contest(s) is inclusive of the pre-designated platform fee for access to the MAHI11 Fantasy Services charged by MAHI11 Fantasy and the predetermined participant’s contribution towards winnings.</li>
             <li>MAH11 Fantasy reserves the right to charge a Contest Entry Amount, which would be specified and notified by MAH11 Fantasy on the Contest page created on the platform, before a User joins such a Contest. The Contest Entry Amount (inclusive of applicable tax thereon) will be debited from the User’s account balance.</li>
             <li>The User may participate in a Contest in which they have to contribute a pre-specified amount towards the Winnings of such Contest. This contribution will be passed on to the winner(s) of the Contest after its completion, as per the terms and conditions of such Contest.</li>
-            <li>To ensure statutory compliance with Section 269SU of the Income-tax Act, MAH11Fantasy encourages payments to be made to its bank accounts through electronic modes such as NEFT, RTGS, and IMPS. The relevant details can be found on the payment platform.</li>
+            <li>To ensure statutory compliance with Section 269SU of the Income-tax Act, MAHI11 Fantasy encourages payments to be made to its bank accounts through electronic modes such as NEFT, RTGS, and IMPS. The relevant details can be found on the payment platform.</li>
             <li>It should be noted that the winnings mentioned in all marketing communications refer to the cumulative winnings for a particular series.</li>
           </ul>
         </p>
 
         <h2 style={styles.subHeader}>29. Cash Bonus</h2>
         <p style={styles.section}>
-          In these terms and across all communications, references to “CASH BONUS” shall mean “MAH11 Fantasy Credits,” which can only be used and utilised on the MAH11Fantasy platform. The terms “CASH BONUS” and “MAH11 Fantasy Credits” are interchangeable and shall only mean “MAH11 Fantasy Credits.”
+          In these terms and across all communications, references to “CASH BONUS” shall mean “MAH11 Fantasy Credits,” which can only be used and utilised on the MAHI11 Fantasy platform. The terms “CASH BONUS” and “MAH11 Fantasy Credits” are interchangeable and shall only mean “MAH11 Fantasy Credits.”
         </p>
 
         <h2 style={styles.subHeader}>30. Disclaimer</h2>
